@@ -1,0 +1,12 @@
+header h1 {
+    font-family: "Righteous", cursive;
+    font-size: 1.7rem;
+    background-image: linear-gradient(to right, #349e95, #a449b5);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.product img {
+    height: 16rem;
+    object-fit: contain;
+}
